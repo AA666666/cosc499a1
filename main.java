@@ -9,15 +9,20 @@ public class main {
 int n1;
 int n2;
 int as;
+int ss;
+
 System.out.println("Enter the first integer number:");
+
 n1=sc.nextInt();
+
 System.out.println("Enter the second integer number:");
 n2=sc.nextInt();
 
 as=n1+n2;
-System.out.println(as);
-}
+ss=n1-n2;
 
-    
+
+System.out.println(n1+"+"+n2+"="+as);
+System.out.println(n1+"-"+n2+"="+ss);
 
 }
