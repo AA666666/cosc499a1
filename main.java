@@ -22,7 +22,7 @@ n2=sc.nextInt();
 
 as=n1+n2;
 ss=n1-n2;
-
+ms=n1*n2;
 
 System.out.println(n1+"+"+n2+"="+as);
 System.out.println(n1+"-"+n2+"="+ss);
