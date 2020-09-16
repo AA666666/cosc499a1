@@ -14,10 +14,10 @@ n1=sc.nextInt();
 System.out.println("Enter the second integer number:");
 n2=sc.nextInt();
 
-if(n1==(int)n1&&n2==(int)n2){
+
 as=n1+n2;
 System.out.println(as);
-}
+
 
     
 }
